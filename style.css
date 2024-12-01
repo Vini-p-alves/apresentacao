@@ -1,0 +1,29 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: #15462b;
+    color: #f6f6f6;
+}
+
+.cor-h1 {
+    color: #2d925c;
+}
+
+a {
+    margin: 5px;
+    padding: 15px;
+    background-color: #2d925c;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma;
+    font-size: 20px;
+}
+
+img {
+    margin: 10px;
+    }
