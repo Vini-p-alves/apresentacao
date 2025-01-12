@@ -1,4 +1,4 @@
-![Thumbnail GitHub]([(https://github.com/Vini-p-alves/presentation/blob/main/assets/Curso%202.png)])
+![Thumbnail GitHub](https://github.com/Vini-p-alves/presentation/blob/main/assets/Curso%202.png)
 
 # Readme Projeto: Apresentação
 
