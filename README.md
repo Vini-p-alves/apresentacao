@@ -11,4 +11,4 @@ Este readme tem como objetivo demonstrar as funcionalidades do projeto com os co
 * Teoria das Cores
 * UX Writing
 
-![](https://github.com/Vini-p-alves/presentation/blob/main/img/1.gif)
+![](https://github.com/Vini-p-alves/presentation/blob/main/assets/1.gif)
