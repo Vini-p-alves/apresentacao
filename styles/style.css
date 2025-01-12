@@ -22,6 +22,10 @@ body {
     color: var(--cor-secundaria);
 }
 
+img {
+    align-items: flex-start;
+}
+
 .cabecalho {
     padding: 2% 0% 0% 15%;
 }
@@ -122,10 +126,6 @@ body {
     transition: 0.5s;
 }
 
-.imagem {
-    width: 30%;
-}
-
 .rodape {
     color: #15462b;
     background-color: var(--cor-terciaria);
@@ -144,15 +144,6 @@ body {
     align-items: center;
     justify-content: space-between;
     gap: 82px;
-}
-
-.container__abbt {
-    margin: 5%;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    font-family: var(--fonte-primaria);
-    font-size: 1.25rem;
 }
 
 .container__abbt__topico {
